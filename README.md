@@ -112,7 +112,7 @@ We are deeply grateful to everyone in the [Autonomous Systems Laboratory](https:
 ### 📊 Dataset
 
 Experiments in this repository are conducted using the **NTU4DRadLM** 4-D Radar-centric Multi-Modal Dataset.  
-Many thanks to Jun Zhang *et al.* for releasing this challenging dataset to the community!  
+Many thanks to Jun Zhang *et al.* for releasing this challenging dataset to the community.  
 <https://github.com/junzhang2016/NTU4DRadLM>
 
 
