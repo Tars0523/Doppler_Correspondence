@@ -13,7 +13,7 @@
 ## Resources  
 - 📄 **[Paper PDF](https://roboticsconference.org/program/papers/5/)**
   - Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity Based Correspondence, Jiwoo Kim, Geunsik Bae, Changseung Kim, Jiwoo Lee, Woojae Shin, Hyondong Oh, [RSS] 2025.
-- 🎬 **[Presentation Video]([Youtube](https://www.youtube.com/watch?v=i0g5dpq_cSQ))**
+- 🎬 **[Presentation Video](https://www.youtube.com/watch?v=i0g5dpq_cSQ)**
 <p align="center">
   <a href="https://www.youtube.com/watch?v=i0g5dpq_cSQ" target="_blank">
     <img src="https://img.youtube.com/vi/i0g5dpq_cSQ/hqdefault.jpg" alt="Doppler Correspondence Demo"/>
