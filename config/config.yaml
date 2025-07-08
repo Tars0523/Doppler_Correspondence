@@ -1,0 +1,30 @@
+icp_doppler:
+  point_cloud_topic: "/radar_enhanced_pcl"
+
+  max_iters: 20
+
+  #* For ICP
+  max_corr_distance: 2.0
+
+  #* No Downsampling, Radar PCL is already sparse
+  #* If you want to use downsampling, use Uniform Downsampling
+  #* Voxel Grid Downsamling is not good for Doppler Correspondence 
+  #* Uniform Downsampling is better for Doppler Correspondence
+  downsample_factor: 1 
+
+  #* lambda_doppler = 1 for Doppler Correspondence Non-Iterative Scan Matching
+  #* lambda_doppler = 0 for ICP 
+  #* 0 < lambda_doppler < 1 for Doppler Correspondence + ICP
+  lambda_doppler: 0.7
+
+  #* 12 Hz
+  period: 0.08333333333    
+
+  huber_threshold: 0.5
+
+  #* For Doppler Correspondence (Region of Interest)
+  doppler_spatial_corr_distance: 3.0
+
+  #* For Doppler Correspondence (Reject Outliers that not satisfy the Doppler Correspondence)
+  doppler_corr_distance: 8.0
+
