@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Data License
-The data in this repository’s 'example/data' and 'example/data_odom' directory are derived from
-[junzhang2016/NTU4DRadLM](https://github.com/junzhang2016/NTU4DRadLM)
-under the MIT License (© 2023 junzhang2016) and has been processed accordingly.
