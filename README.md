@@ -9,15 +9,6 @@
   <p><strong><em> Doppler Correspondence is a framework for establishing correspondence in 4D radar odometry </em></strong></p>
 </div>
 
-
-📌 **Presented at**: [Robotics: Science and Systems (RSS) 2025](https://roboticsconference.org/program/papers/5/)  
-🏆 **Outstanding Student Paper Award Finalist – RSS 2025**  
-> A correspondence estimation method that leverages **Doppler information** for local registration in 4D ranging sensors.
-
-<p align="center">
-  <img src="misc/shoot.png" alt="Error Comparison" width="800" style="display:block; margin:auto;"/>
-</p>
-
 ---
 
 ## Resources  
@@ -31,6 +22,14 @@
 </p>
 
 ---
+📌 **Presented at**: [Robotics: Science and Systems (RSS) 2025](https://roboticsconference.org/program/papers/5/)  
+🏆 **Outstanding Student Paper Award Finalist – RSS 2025**  
+> A correspondence estimation method that leverages **Doppler information** for local registration in 4D ranging sensors.
+
+<p align="center">
+  <img src="misc/shoot.png" alt="Error Comparison" width="800" style="display:block; margin:auto;"/>
+</p>
+
 
 ## 4D Radar Scan Matching With Doppler Correspondence
 
