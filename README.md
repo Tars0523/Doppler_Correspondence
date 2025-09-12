@@ -110,7 +110,7 @@ We are deeply grateful to everyone in the [Autonomous Systems Laboratory](https:
 | 🔥 **Geunsik Bae** | [@9iant](https://github.com/9iant) · baegs94@unist.ac.kr | Ph.D. Student — Path Planning, Ergodic Search |
 | 🔥 **Jinwoo Lee** | [@jinwoolee1230](https://github.com/jinwoolee1230) · jinwoolee2021@unist.ac.kr | M.S. Student — Path Planning, PCR |
 | ✨ **Changseung Kim** | [@spearwin](https://github.com/spearwin) · pon02124@unist.ac.kr | Ph.D. Student — LiDAR SLAM |
-| ✨ **Wooaje Shin** | [@sindream](https://github.com/sindream) · oj7987@unist.ac.kr | M.S. Student — Reinforcement Learning, Vision-Based Navigation |
+| ✨ **Wooaje Shin** | [@sindream](https://github.com/sindream) · oj7987@kaist.ac.kr | M.S. Student — Reinforcement Learning, Vision-Based Navigation |
 | *(All Other ASL members\!)* | — | — |
 
 **Legend**  
