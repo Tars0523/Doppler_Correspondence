@@ -4,7 +4,6 @@
     <a href="https://github.com/Tars0523/Doppler_Correspondence"><img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" /></a>
     <a href="https://github.com/Tars0523/Doppler_Correspondence"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></a>
     <a href="https://arxiv.org/abs/2502.11461"><img src="https://img.shields.io/badge/arXiv-b33737?logo=arXiv" /></a>
-    <a href="https://www.roboticsproceedings.org/rss21/p005.pdf"><img src="[https://img.shields.io/badge/arXiv-b33737?logo=arXiv](https://img.shields.io/badge/RSS-Robotics%20Science%20and%20Systems-blue.svg?logo=<logo_slug>&logoColor=white)" /></a>
   <br />
   <br />
   <p><strong><em> Doppler Correspondence is a framework for establishing correspondence in 4D radar odometry </em></strong></p>
