@@ -91,19 +91,6 @@ roslaunch Doppler_Correspondence run.launch
 ```
 ---
 
-## 🙏 Acknowledgements
-
-**Autonomous Systems Laboratory (ASL), UNIST**  – <https://asl.unist.ac.kr/>
-We are deeply grateful to everyone in the [Autonomous Systems Laboratory](https://asl.unist.ac.kr/) for their feedback, code reviews, and countless discussions that shaped this work. In particular, we would like to thank:
-
-| Name | GitHub · Contact | Research Interest |
-|------|------------------|------|
-| 🔥 **Geunsik Bae** | [@9iant](https://github.com/9iant) · baegs94@unist.ac.kr | Ph.D. Student — Path Planning, Ergodic Search |
-| 🔥 **Jinwoo Lee** | [@jinwoolee1230](https://github.com/jinwoolee1230) · jinwoolee2021@unist.ac.kr | M.S. Student — Path Planning, PCR |
-| ✨ **Changseung Kim** | [@spearwin](https://github.com/spearwin) · pon02124@unist.ac.kr | Ph.D. Student — LiDAR SLAM |
-| ✨ **Wooaje Shin** | [@sindream](https://github.com/sindream) · oj7987@kaist.ac.kr | M.S. Student — Reinforcement Learning, Vision-Based Navigation |
-| *(All Other ASL members\!)* | — | — |
-
 **Legend**  
 - 🔥 Idea & Implementation  
 - ✨ Advisory Support  
