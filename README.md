@@ -91,11 +91,6 @@ roslaunch Doppler_Correspondence run.launch
 ```
 ---
 
-**Legend**  
-- 🔥 Idea & Implementation  
-- ✨ Advisory Support  
----
-
 ### 📊 Dataset
 
 Experiments in this repository are conducted using the **NTU4DRadLM** 4-D Radar-centric Multi-Modal Dataset.  
